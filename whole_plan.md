@@ -1,3 +1,6 @@
-# First Chapter
+# 整体计划
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1 申请虚拟机
+2 安装docker
+3 spring boot 开发第一个微服务
+
